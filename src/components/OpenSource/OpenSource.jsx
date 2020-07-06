@@ -51,17 +51,17 @@ const OpenSource = () => {
                         </p>
                         <p>
                           <b>o</b> {info ||
-                            'Added Example for interaction of'}<b> dvc add</b> with <b>Dvcignore</b>. <a href="https://www.coursera.org/account/accomplishments/certificate/BN3F2VXSTYCV" aria-label="link">PR <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
+                            'Added Example for interaction of'}<b> dvc add</b> with <b>Dvcignore</b>. <a href="https://github.com/iterative/dvc.org/pull/1346" aria-label="link">PR <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
                         </p>
 
                         <p>
                           <b>o</b> {info ||
-                            'Updated the documentation corresponding to'} <b>dvc repro</b> command. <a href="https://github.com/iterative/dvc.org/pull/1504"><u>PR</u></a>
+                            'Updated the documentation corresponding to'} <b>dvc repro</b> command.  <a href="https://github.com/iterative/dvc.org/pull/1504" aria-label="link">PR <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
                         </p>
 
                         <p>
                           <b>o</b> {info ||
-                            'Updated the tutorial under'} <b>Use Cases</b>.
+                            'Updated the tutorial under'} <b>Use Cases</b> <a href="https://github.com/iterative/dvc.org/pull/1526" aria-label="link">PR <FontAwesomeIcon icon={faExternalLinkAlt} /></a>.
                         </p>
                       </div>
                     </div>
@@ -84,7 +84,7 @@ const OpenSource = () => {
                         </p>
                         <p>
                           <b>o</b> {info ||
-                            'Opened a PR to add a tutorial on the'}<b> autoscaling </b> feature offered by matplotlib. <a href="https://github.com/matplotlib/matplotlib/pull/17530"><u>PR</u></a>
+                            'Opened a PR to add a tutorial on the'}<b> autoscaling </b> feature offered by matplotlib. <a href="https://github.com/matplotlib/matplotlib/pull/17530" aria-label="link">PR <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
                         </p>
                       </div>
                     </div>
