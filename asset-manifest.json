@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.91eb6184.css",
-    "main.js": "/static/js/main.b88da6e1.js",
+    "main.css": "/static/css/main.1aefd867.css",
+    "main.js": "/static/js/main.ef49ecfa.js",
     "static/css/64.77387bc9.chunk.css": "/static/css/64.77387bc9.chunk.css",
     "static/js/64.e7b5a605.chunk.js": "/static/js/64.e7b5a605.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
@@ -11,31 +11,32 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/Jerry_Object_detection.jpeg": "/static/media/Jerry_Object_detection.4cdc1467c9b928d98007.jpeg",
-    "static/media/LiveSketch.jpg": "/static/media/LiveSketch.d6b2ff6dcc103b30d1af.jpg",
+    "static/media/LiveSketch.jpg": "/static/media/LiveSketch.5b78d7ada02f7f516f63.jpg",
     "static/media/foodie_partner.jpeg": "/static/media/foodie_partner.24751022ddd8462b9c8d.jpeg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/sentiment_analysis.jpg": "/static/media/sentiment_analysis.3579523be1616575e598.jpg",
-    "static/media/cyclic_gan.JPG": "/static/media/cyclic_gan.e68550a56175a4888528.JPG",
     "static/media/flight_departure.avif": "/static/media/flight_departure.f76c366cb1f193a30ff0.avif",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/carbonEmissions.avif": "/static/media/carbonEmissions.e6f82bf855e9d8706cdd.avif",
     "static/media/muacm.png": "/static/media/muacm.6740814e175e009b6b6a.png",
+    "static/media/cyclic_gan.png": "/static/media/cyclic_gan.74a183d5eea968dd3e8b.png",
     "static/media/detectGPT.jpg": "/static/media/detectGPT.200b13121921c4fc87c5.jpg",
     "static/media/dl_specialization.jpeg": "/static/media/dl_specialization.c867a67f4d109a22b925.jpeg",
     "static/media/s4ds.jpeg": "/static/media/s4ds.b75c9e85634ab0e18b83.jpeg",
+    "static/media/55tech_logo.jpeg": "/static/media/55tech_logo.8acfe0cb192022bfd6ef.jpeg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.91eb6184.css.map": "/static/css/main.91eb6184.css.map",
-    "main.b88da6e1.js.map": "/static/js/main.b88da6e1.js.map",
+    "main.1aefd867.css.map": "/static/css/main.1aefd867.css.map",
+    "main.ef49ecfa.js.map": "/static/js/main.ef49ecfa.js.map",
     "64.77387bc9.chunk.css.map": "/static/css/64.77387bc9.chunk.css.map",
     "64.e7b5a605.chunk.js.map": "/static/js/64.e7b5a605.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
     "769.7c2ba6a6.chunk.js.map": "/static/js/769.7c2ba6a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91eb6184.css",
-    "static/js/main.b88da6e1.js"
+    "static/css/main.1aefd867.css",
+    "static/js/main.ef49ecfa.js"
   ]
 }
