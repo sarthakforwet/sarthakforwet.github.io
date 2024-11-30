@@ -11,36 +11,21 @@ import React from 'react'
 const projectConfig = [
     {
         id: "project-5",
-        title: "Sklearn Genetic Opt",
+        title: "Rossman_Store_Sales",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
+                url: "https://github.com/sarthakforwet/Rossman_Store_Sales",
                 icon: <AiFillGithub/>,
-            },
-            {
-                name: "fork",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
-                icon: <BiGitRepoForked/>,
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/subscription",
-                icon: <AiFillEye/>,
-            },
-            {
-                name: "docs",
-                url: "https://sklearn-genetic-opt.readthedocs.io/en/stable/",
-                icon: <ImBook/>,
             }
         ],
-        image: sklearnGenetic,
-        description: "scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms.",
+        image: "https://github.com/sarthakforwet/Rossman_Store_Sales/raw/main/Cloud_Pipeline.png",
+        description: "An end-to-end ETL pipeline utilizing Kaggle API and Google Cloud Platform to process 1.3 million records from 1300+ Rossman Stores.",
         target: "_blank"
     },
     {
         id: "project-3",
-        title: "Kafkaml Anomalies",
+        title: "Detect GPT",
         links: [
             {
                 name: "repo",

@@ -5,144 +5,87 @@ import fastapiSklearn from "../images/fastapi_sklearn.png"
 
 const blogConfig = [
     {
-        id: "blog-8",
-        title: "How to Solve Scheduling Problems in Python",
+        id: "blog-5",
+        title: "Building and Deploying a Web Application with Flask: A Guide to Google Cloud Deployment",
         links: [
             {
                 name: "article",
-                url: "https://towardsdatascience.com/how-to-solve-scheduling-problems-in-python-36a9af8de451",
+                url: "https://sarthakforwet.medium.com/building-and-deploying-a-web-application-with-flask-a-guide-to-google-cloud-deployment-c100f4a8e81d",
                 icon: <SiMedium/>
             }
         ],
-        image: "https://miro.medium.com/max/700/1*VKIGzmJrYBzcPlB6USx8OA.jpeg",
-        description: "Use linear programming to minimize the difference between required and scheduled resources.",
-        target: "_blank"
-    },
-    {
-        id: "blog-7",
-        title: "Adaptive Parameters Methods for Machine Learning",
-        links: [
-            {
-                name: "article",
-                url: "https://towardsdatascience.com/adaptive-parameters-methods-for-machine-learning-6f7101a9a71",
-                icon: <SiMedium/>
-            }
-        ],
-        image: "https://miro.medium.com/max/700/1*DeZYSLcMdF58BeqemGhUhg.jpeg",
-        description: "Let's explore some methods to adapt your parameters over time.",
-        target: "_blank"
-    },
-    {
-        id: "blog-6",
-        title: "Evolutionary Feature Selection for Machine Learning",
-        links: [
-            {
-                name: "article",
-                url: "https://towardsdatascience.com/evolutionary-feature-selection-for-machine-learning-7f61af2a8c12",
-                icon: <SiMedium/>
-            }
-        ],
-        image: "https://miro.medium.com/max/1400/1*hgFe2YFnwzt_K2TfE7aSrQ.jpeg",
-        description: "Learn how to make feature selection for machine learning algorithms using evolutionary models.",
+        image: "https://miro.medium.com/v2/resize:fit:828/format:webp/1*q80YUK1MYpMZZEXoig1UAA.jpeg",
+        description: "In this article, I will walk you through creating a basic web application using Flask and deploying it to Google Cloud in 3 easy steps.",
         target: "_blank"
     },
     {
         id: "blog-5",
-        title: "Real-time anomaly detection with Apache Kafka and Python",
+        title: "Normalization, its types and Normalization layers",
         links: [
             {
                 name: "article",
-                url: "https://towardsdatascience.com/real-time-anomaly-detection-with-apache-kafka-and-python-3a40281c01c9",
+                url: "https://medium.com/muacm/normalization-its-types-and-normalization-layers-c9f1bb40b2dd",
                 icon: <SiMedium/>
-            },
-            {
-                name: "repo",
-                url: "https://github.com/rodrigo-arenas/kafkaml-anomaly-detection",
-                icon: <AiFillGithub/>
             }
         ],
-        image: "https://miro.medium.com/max/1400/1*Xem1rbG0Fa8DAhtez7mvsA.jpeg",
-        description: "Learn how to make predictions over streaming data coming from Kafka using Python.",
+        image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*S4YoZVqiEVWZFBTh",
+        description: "The article moves through understanding Normalization, different types of normalization to the discussion of some Normalization layers.",
         target: "_blank"
     },
     {
         id: "blog-4",
-        title: "Serve a machine learning model using Sklearn, FastAPI, and Docker",
+        title: "GANs: Leveraging Technology for a Better Tomorrow",
         links: [
             {
                 name: "article",
-                url: "https://medium.com/analytics-vidhya/serve-a-machine-learning-model-using-sklearn-fastapi-and-docker-85aabf96729b",
+                url: "https://towardsdatascience.com/gans-leveraging-technology-for-a-better-tomorrow-ea192087b4e4",
                 icon: <SiMedium/>
-            },
-            {
-                name: "repo",
-                url: "https://github.com/rodrigo-arenas/fast-ml-deploy",
-                icon: <AiFillGithub/>
             }
         ],
-        image: fastapiSklearn,
-        description: "Get your model machine learning model to production as a containerized API.",
+        image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*5-pgiDKD9d2iEDMF.png",
+        description: "In this article I deep dive into Generative Adversarial Networks (GANs) and explain the different types of GAN architectures.",
         target: "_blank"
     },
     {
         id: "blog-3",
-        title: "Are You Still Using Grid2 Search for Hyperparameters Optimization?",
+        title: "CutMix: A new strategy for Data Augmentation",
         links: [
             {
                 name: "article",
-                url: "https://towardsdatascience.com/hyperparameters-tuning-from-Grid2-search-to-optimization-a09853e4e9b8",
+                url: "https://sarthakforwet.medium.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab",
                 icon: <SiMedium/>
             }
         ],
-        image: "https://miro.medium.com/max/1400/0*ZYC4nQw8g2dv7GCp",
-        description: "Let's discuss the ideas behind how to search in a smart fashion the hyperparameters for your machine learning models.",
-        target: "_blank"
-    },
-    {
-        id: "blog-2",
-        title: "Tune Your Scikit-learn Model Using Evolutionary Algorithms",
-        links: [
-            {
-                name: "article",
-                url: "https://towardsdatascience.com/tune-your-scikit-learn-model-using-evolutionary-algorithms-30538248ac16",
-                icon: <SiMedium/>
-            }
-        ],
-        image: "https://miro.medium.com/max/1400/1*gmNunOZ86_URtnzuOA7oNg.jpeg",
-        description: "Scikit-learn hyperparameters tuning with evolutionary algorithms and cross-validation.",
+        image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AYyS08SHERhl_ZDB_wWtvg.jpeg",
+        description: "This article reflects the study of the original paper that introduced CutMix augmentation and thus some definitions and phrases are taken from it.",
         target: "_blank"
     },
     {
         id: "blog-1",
-        title: "Manage your machine learning life cycle with MLflow in Python",
+        title: "Building and hosting Portfolio with Gatsby and GitHub Pages",
         links: [
             {
                 name: "article",
-                url: "https://medium.com/analytics-vidhya/manage-your-machine-learning-lifecycle-with-mlflow-in-python-d678d5f3c682",
+                url: "https://medium.com/analytics-vidhya/building-and-hosting-portfolio-with-gatsby-and-github-pages-bd070a3826f7",
                 icon: <SiMedium/>
             },
-            {
-                name: "repo",
-                url: "https://github.com/rodrigo-arenas/mlflow-basics",
-                icon: <AiFillGithub/>
-            }
         ],
-        image: "https://miro.medium.com/max/1400/1*FhKrMpcUPeZxNsZpKNv4BA.png",
-        description: "Model lifecycle management using mlflow",
+        image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*CfSbGnCauoOXgGIqPKdhWA.jpeg",
+        description: "This blog describes how one can build a website using Gatsby framework in React.",
         target: "_blank"
     },
     {
         id: "blog-0",
-        title: "Workforce planning optimization using Python",
+        title: "Focal Loss: An efficient way of handling class imbalance",
         links: [
             {
                 name: "article",
-                url: "https://towardsdatascience.com/workforce-planning-optimization-using-python-69af0ef9011a",
+                url: "https://medium.com/swlh/focal-loss-an-efficient-way-of-handling-class-imbalance-4855ae1db4cb",
                 icon: <SiMedium/>
             }
         ],
-        image: "https://miro.medium.com/max/1400/1*UDnhOFK35IbAPx15wkMgVg.jpeg",
-        description: "Learn how to find the optimal number of positions needed to manage incoming traffic.",
+        image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fDwafFNWavy5TrPF.png",
+        description: "In this article I discuss about the FocalLoss loss function in detail.",
         target: "_blank"
     }
 ]
